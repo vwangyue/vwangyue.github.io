@@ -6,4 +6,4 @@ citation: 'Z. Luo, Y. Wang, and X. Wu. Proceedings of the 13th International Con
 ---
 
 Z. Luo, Y. Wang, and X. Wu. Proceedings of the 13th International Conference on Web Information System Engineering (WISE12), Paphos, Cyprus, Nov 28-30, 2012. <br>
-[Download paper here](http://vwangyue.github.io/files/BigCom16.pdf)
+[Download paper here](http://vwangyue.github.io/files/AwardWISE12.pdf)
