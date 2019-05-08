@@ -14,6 +14,6 @@ Dr. Wang served as a review editor in the Editorial Board for Frontiers in Big D
 
 Dr. Wang has published over twelve scholarly papers in top journals and conference proceedings including Trasactions on Data Privacy, Social Network Analysis and Mining, IEEE/ACM Transactions on Computational Biology and Bioinformatics, AAAI, IJCAI, PAKDD and so on. She and her colleagues have received several awards including WISE'12 Challenge Runner-up Award, PAKDD'13 Best Application Paper Award, and BIBM13 Best Paper Award.
 
-Dr. Wang got his Ph.D. in Information Technology from University of North Carolina at Charlotte in May 2015. She received her BS degree in Computer Science from the University of Science and Technology of China in 2011. 
+Dr. Wang got her Ph.D. in Information Technology from University of North Carolina at Charlotte in May 2015. She received her BS degree in Computer Science from the University of Science and Technology of China in 2011. 
 
 
