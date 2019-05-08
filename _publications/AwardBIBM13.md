@@ -7,4 +7,4 @@ citation: 'Y. Wang, X. Wu, and X. Shi. Proceedings of the IEEE International Con
 
 Y. Wang, X. Wu, and X. Shi. Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Shanghai, China, Dec 18-21, 2013, pp. 410-415. <br>
 <b> Best Paper Award </b> <br>
-[Download paper here](http://vwangyue.github.io/files/TCBB17.pdf)
+[Download paper here](http://vwangyue.github.io/files/AwardBIBM13.pdf)
