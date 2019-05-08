@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Dr. Yue Wang's Personal Webpage"
+title                    : "Dr. Yue Wang"
 title_separator          : "-"
 name                     : &name "Dr. Yue Wang"
 description              : &description "Software Engineer and Research Scientist at AcuSys, Inc"
