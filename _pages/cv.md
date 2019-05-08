@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% /files/CV_YueWang.doc %}
+{% include base_path %}
 
 Education
 ======
