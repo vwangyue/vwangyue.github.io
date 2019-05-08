@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* <b>Computer Network Support Specialist</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b> AcuSys, Inc </b> <br />
+* <b>Software Engineer and Research Scientist</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b> AcuSys, Inc </b> <br />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug 2015 - now
   * Design and implement data analysis and reporting solutions for different government systems such as National Data Bank, Automated Grants Closeout, Digital Accountability and Transparency Act Supporting Systems and so on, for United States Department of Agriculture.
   * Evaluate network-related applications to identify root cause of issues; analyze network data and leverage statistical models to determine network usage and provide technical support.
