@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Science and Technology of China, June 2011
+* Ph.D in Computer Science, University of North Carolina at Charlotte, Charlotte, NC, USA, May 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2015 - now: Computer Network Support Specialist
+  * Design and implement data analysis and reporting solutions for different government systems such as National Data Bank, Automated Grants Closeout, Digital Accountability and Transparency Act Supporting Systems and so on, for United States Department of Agriculture.
+  * Evaluate network-related applications to identify root cause of issues; analyze network data and leverage statistical models to determine network usage and provide technical support.
 
 * Fall 2015: Research Assistant
   * Github University
