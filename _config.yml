@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yue Wang's Personal Webpage"
+title                    : "Welcome to Dr. Yue Wang's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Dr. Yue Wang"
 description              : &description "Software Engineer and Research Scientist at AcuSys, Inc"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue Wang"
+  name             : "Dr. Yue Wang"
   avatar           : "Yue.jpg"
   bio              : "Software Engineer and Research Scientist at AcuSys, Inc"
   location         : "Alexandria, VA"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kXyaxX4AAAAJ&hl=en"
   email            : vwangyue@gmail.com
