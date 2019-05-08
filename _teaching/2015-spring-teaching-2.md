@@ -8,7 +8,11 @@ date: 2018-07-01
 ---
 
 Dr. Wang Served as the Review Editor or Reviewer in the Editorial Boards for the following journals: 
+
 Frontiers in Big Data
+
 Social Network Analysis and Mining
+
 Journal of Intelligent Information Systems
+
 International Journal of Data Science and Analytics
