@@ -7,4 +7,4 @@ citation: 'X. Ying, X. Wu, and Y. Wang. Proceedings of the 17th Pacific-Asia Con
 
 X. Ying, X. Wu, and Y. Wang. Proceedings of the 17th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD13), Gold Coast, Australia, April 14-17, 2013. <br>
 <b>Best Application Paper Award</b> <br>
-[Download paper here](http://vwangyue.github.io/files/BigCom16.pdf)
+[Download paper here](http://vwangyue.github.io/files/Award_PAKDD13.pdf)
