@@ -7,7 +7,7 @@ venue: "Program Committee"
 date: 2018-07-01
 ---
 
-Dr. Wang Served as the Program Committee Member or Reviewer in the Program Committee for the following top conferences: 
+Dr. Wang Served as the Program Committee Member or Reviewer in the Program Committee for the following international conferences: 
 
 PAKDD 2019
 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining
