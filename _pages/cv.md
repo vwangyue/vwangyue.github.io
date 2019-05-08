@@ -32,11 +32,13 @@ Research Experience
   * <b>Privacy Preserving Data Mining of Social Network and HealthCare Data</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Oct 2012-May 2015
     * Conducted interdisciplinary research in the design and implementation of the SMASH  system to help understanding the influence of various factors on sustained weight loss, in collaboration with doctors, scientists and researchers from PeaceHealth Medical Group, SKT Americas, NIH and University of Oregon
     * Designed and implemented privacy preserving data analysis algorithms (eight publications). For my doctoral dissertation, I investigate how to protect privacy in analyzing sensitive data with various mining models. We develop privacy preserving mining techniques for analyzing sensitive data from social network, wearable devices, health record platforms, considering various potential attacking methods from adversaries. Our developed techniques can be applied to many commonly used data mining approaches such as general OLAP queries, regression analysis, spectral analysis, Bayesian inference, deep learning models and so on.
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * <b>Privacy Threat in Human Genome Data Analysis(Java, Matlab; Best Overall Paper Award at BIBM 2013)</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jan-Sep 2013
+    * Explored commonly used analyzing approaches for human genome data including chi-square tests, linear regression, logistic regression, Bayesian inferences and so on.
+    * Evaluated potential risks in analyzing human genome data. Designed attack models that bring about potential risks to general population. Designed and proposed privacy protection mechanisms that can be employed to protect study participants and the general population. This work achieved Best Overall Paper Award at the 2013 IEEE International Conference on Bioinformatics and Biomedicine(BIBM).
+  * <b> Retweeting Behavior Prediction in Social Media (Java, Matlab, SPSS; Runner-up Award on WISE 2012 Challenge)</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jan-Oct 2012
+    * Conducted user behavior analysis of data from Twitter and Sina focusing on semantic analysis, fraud detection and retweeting behavior prediction. This work achieved Runner-up Award on WISE 2012 Challenge at the 13th International Conference on Web Information System Engineering.
+    * Designed and implemented analyzing algorithms including ARMA model for time series data analysis and spectral projection of graph topology for spectrum based methods to identify different behavior patterns.
+* <b>Junior Research Assistant</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; University of Science and Technology of China
 
 Publications
 ======
@@ -44,18 +46,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as Program Committee Member for top conferences in Computer Science such as AAAI, IJCAI, PAKDD, ICDM, CIKM, KDD and so on. 
+* Served as the Review Editor in the Editorial Board for top journals of Data Mining and Management such as Frontiers in Big Data, Social Network Analysis and Mining, Journal of Intelligent Information Systems, International Journal of Data Science and Analytics and so on.
+
