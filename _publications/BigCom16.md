@@ -1,5 +1,6 @@
 ---
 title: "Infringement of Individual Privacy via Mining Differentially Private GWAS Statistics"
+permalink: /publication/BigCom16
 author: Y. Wang, J. Wei, X. Wu and X. Shi.
 ---
 
