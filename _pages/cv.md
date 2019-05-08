@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
-* Computer Network Support Specialist &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b> AcuSys, Inc </b> <br />
+* <b>Computer Network Support Specialist</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b> AcuSys, Inc </b> <br />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug 2015 - now
   * Design and implement data analysis and reporting solutions for different government systems such as National Data Bank, Automated Grants Closeout, Digital Accountability and Transparency Act Supporting Systems and so on, for United States Department of Agriculture.
   * Evaluate network-related applications to identify root cause of issues; analyze network data and leverage statistical models to determine network usage and provide technical support.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>Software Engineer Intern</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b> Samsung Research America</b> <br />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spring 2014
+  * Conduct analysis of the information demand of the hardware security team with Amazon Web Service to conduct efficient analysis of large scale of data.
+  * Design and implement a security supporting component enabling daily OLAP and other mining tasks on the access logs generated from millions of Samsung mobile devices every day.
   
 Skills
 ======
